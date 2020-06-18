@@ -1,5 +1,7 @@
 # Healthcare-Review-Evaluation
-Application Domain Project
+Application Domain Project<br>
+<u>Motivation</u> : On preliminary analysis on the Amazon website, we noticed that very old reviews as old as 2 years old coming at the top of the review panel because they have been there for too long and everytime someone viewed it and considered it helpful, its chances of staying at the top increased. So if the seller improved their performance , chances of it reflecting on the top is rare until the user selects latest reviews, ths negatively hampering customer intent to buy.<br>
+  
 We decided to create a predictive model to detect helpfulness of a review based on its text content. So that new reviews will get a predicted helpful rating when they are first written and used in the review ranking system before it gets atleast 5 views to reduce the bias caused by improved helpfulness of old reviews because of their duration
 
 ### Step 1 Target Variable : Helpfulness Flag
